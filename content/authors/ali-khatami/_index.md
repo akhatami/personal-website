@@ -27,7 +27,7 @@ interests:
 education:
   courses:
     - course: PhD in Software Engineering
-      institution: Stanford University
+      institution: Delft University of Technology
       year: 2025
     - course: MSc in Software Engineering
       institution: Sharif University of Technology
