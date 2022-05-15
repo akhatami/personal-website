@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal website of Ali Khatami'
+    twitter: '_akhatami_'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-QNJ1YQ79ZK'
     baidu_tongji: ''
   verification:
     google: ''
@@ -39,16 +39,66 @@ header:
     show_search: true
     highlight_active_link: true
 
+# Contact details
+email: "info@akhatami.com"
+phone: ''
+
+# Address
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+address:
+  street: Van Mourik Broekmanweg 6
+  city: Delft
+  region: South-Holland
+  postcode: 2628 XE
+  country: The Netherlands
+  country_code: NL
+
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates:
+  latitude: "37.4275"
+  longitude: "-122.1697"
+
+# Directions for visitors to locate you.
+directions: Room 28.4.W780 (building 28)
+
+# Office hours
+# A list of your office hours. To remove, set to an empty list `[]`.
+office_hours: []
+
+# Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url: ""
+
+# Contact links
+# Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: "https://twitter.com/_akhatami_"
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: ""
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
+
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Ali Khatami. This work is licensed under {license}.'
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
 
 # Localization
 
@@ -70,7 +120,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/akhatami/personal-website'
     content_dir: content
     branch: master
   avatar:
