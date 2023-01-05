@@ -44,7 +44,7 @@ content:
     longitude: "-122.1697"
   
   # Directions for visitors to locate you.
-  directions: Room 28.4.W780 (building 28)
+  # directions: 
   
   # Office hours
   # A list of your office hours. To remove, set to an empty list `[]`.

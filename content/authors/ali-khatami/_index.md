@@ -6,7 +6,7 @@ title: Ali Khatami
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
