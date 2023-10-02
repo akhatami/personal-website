@@ -47,8 +47,10 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/_akhatami_
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
+    display:
+      header: true
     link: https://scholar.google.com/citations?user=ax4ieSsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
