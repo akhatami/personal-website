@@ -47,9 +47,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/_akhatami_
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=ax4ieSsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/akhatami
@@ -70,7 +70,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Ali, a PhD student in [the Software Engineering Research Group (SERG)]((https://se.ewi.tudelft.nl/)) at [Delft University of Technology](https://www.tudelft.nl/). Currently, I am working on software quality analytics in the [TestShift](https://testshiftproject.github.io/) project under supervision of [Andy Zaidman](https://azaidman.github.io/). Before, I got my MSc degree of Software Engineering from Sharif University of Technology. My main research interests are software quality analytics, software testing, software evolution, and empirical software engineering.
+I am Ali, a PhD candidate in [the Software Engineering Research Group (SERG)]((https://se.ewi.tudelft.nl/)) at [Delft University of Technology](https://www.tudelft.nl/). Currently, I am working on software quality analytics in the [TestShift](https://testshiftproject.github.io/) project under supervision of [Andy Zaidman](https://azaidman.github.io/). Before, I got my MSc degree of Software Engineering from Sharif University of Technology. My main research interests are software quality analytics, software testing, software evolution, and empirical software engineering.
 
 Feel free to contact me to find more about my research.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
